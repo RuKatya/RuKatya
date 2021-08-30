@@ -9,6 +9,6 @@ Of course I also have the basics in HTML, CSS and JavaScript.
 
 I invite you to visit my [ :globe_with_meridians: Portfolio page](https://katya-ru-fullstack.herokuapp.com/) and be impressed by it.
 
-:email: **Don't hesitate to ask questions, if something is not understood or if you need help, I will always be happy to help! If you want to contact me, you can do so via [LinkedIn](https://www.linkedin.com/in/katya-rukosuev/) or [Email](mailto:katya.ru.fullstack@gmail.com).**
+:email: **Don't hesitate to ask questions, I will always be happy to help! You can to contact me via [LinkedIn](https://www.linkedin.com/in/katya-rukosuev/) or [Email](mailto:katya.ru.fullstack@gmail.com).**
 
-**P.S.** 😄 Fun fact about me  - I loves an anime by Studio Ghibli.
+**P.S.** 😄 Fun fact about me  - I want to buy a house just to have a lot of plants in it.
