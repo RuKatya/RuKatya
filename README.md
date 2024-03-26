@@ -11,11 +11,8 @@
 ![](https://komarev.com/ghpvc/?username=RuKatya&style=flat-square&label=Views&color=blueviolet) 
 ![](https://badges.pufler.dev/repos/RuKatya?color=black&logo=github)
 ![](https://badges.pufler.dev/visits/RuKatya/RuKatya?color=blue)
-<p align="right">
+<p align="center">
   <a href="https://ko-fi.com/katyaru" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 </p>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=RuKatya&style=flat-square&label=Views&color=blueviolet"><img> -->
-<!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
