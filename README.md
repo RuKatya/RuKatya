@@ -5,8 +5,11 @@
   <a href="https://www.linkedin.com/in/katya-rukosuev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-## **Languages and Tools:**  
 <p align="center">
+   <p>Israel</p>
+</p>
+<h2 align="center">Languages and Tools </h2>
+   <p align="center">
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="css3" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -24,22 +27,21 @@
    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />   
 </p>
 
-:email: **Don't hesitate to ask questions, I will always be happy to help!**
+<h3 align="center">Don't hesitate to ask questions, I will always be happy to help! </h3>
 
-**P.S.** 😄 Fun fact about me  - I want to buy a house just to have a lot of plants in it.
-
-
+------------
 <p align="center">
    If you like what I do, maybe consider buying me a coffee/tea
 </p>
+
 <p align="center">
   <a href="https://ko-fi.com/katyaru" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 </p>
 
+------------
 <p align="right">
    <a href=""><img src="https://komarev.com/ghpvc/?username=RuKatya&style=flat-square&label=Views&color=blueviolet"/></a>
    <a href=""><img src="https://badges.pufler.dev/repos/RuKatya?color=black&logo=github"/></a>
-   <a href=""><img src="https://badges.pufler.dev/visits/RuKatya/RuKatya?color=blue"/></a>
 </p>
