@@ -1,14 +1,21 @@
-## Hello 👋
+<img src="https://res.cloudinary.com/dwqjxatlu/image/upload/v1711467352/Desktop_-_4_umfwy5.jpg" alt="RuKatya GitHub Head ReadMe"/>
+<p align="center">
+   <a href="mailto:katyafox93@gmail.com?subject=Hi%20Katya!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/KatyaFox/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/katya-rukosuev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-My name is Katya and I have completed a full stack course :woman_student: . 
-
-During the course I learned a lot of tools with which I can create a website, such as: React | NextJS | NodeJS | MongoDB. 
-Of course I also have the basics in HTML, CSS and JavaScript.
-
-:technologist: I am currently working on some personal projects where I can present my knowledge, strengthen myself in things I think I am still weak and at the same time learn new material that I did not get to learn during the course, such as React native.
-
-I invite you to visit my [ :globe_with_meridians: Portfolio page](https://katya-ru.herokuapp.com) and be impressed by it.
-
-:email: **Don't hesitate to ask questions, I will always be happy to help! You can to contact me via [LinkedIn](https://www.linkedin.com/in/katya-rukosuev/) or [Email](mailto:katya.ru.fullstack@gmail.com).**
+:email: **Don't hesitate to ask questions, I will always be happy to help!**
 
 **P.S.** 😄 Fun fact about me  - I want to buy a house just to have a lot of plants in it.
+![](https://komarev.com/ghpvc/?username=RuKatya&style=flat-square&label=Views&color=blueviolet) 
+![](https://badges.pufler.dev/repos/RuKatya?color=black&logo=github)
+![](https://badges.pufler.dev/visits/RuKatya/RuKatya?color=blue)
+<p align="right">
+  <a href="https://ko-fi.com/katyaru" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
+</p>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=RuKatya&style=flat-square&label=Views&color=blueviolet"><img> -->
+<!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
