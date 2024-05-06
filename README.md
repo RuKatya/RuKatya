@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dwqjxatlu/image/upload/v1711467352/Desktop_-_4_umfwy5.jpg" alt="RuKatya GitHub Head ReadMe"/>
+<img src="https://res.cloudinary.com/dwqjxatlu/image/upload/v1714988188/vffhemdixv82qomuofak.jpg" alt="RuKatya GitHub Head ReadMe"/>
 <p align="center">
    <a href="mailto:katyafox93@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/KatyaFox/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
