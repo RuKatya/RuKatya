@@ -4,8 +4,9 @@
    <a href="https://www.linkedin.com/in/katya-rukosuev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-/* https://res.cloudinary.com/dwqjxatlu/image/upload/v1762351162/vffhemdixv82qomuofak.jpg */
-https://res.cloudinary.com/dwqjxatlu/image/upload/v1762351162/vffhemdixv82qomuofak.jpg
+<p align="center">
+   A developer with a background in UX/UI who believes that great design and user experience are essential to successful products. 
+</p>
 
 <h2 align="center">Languages and Tools </h2>
    <p align="center">
