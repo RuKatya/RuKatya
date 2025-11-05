@@ -28,18 +28,6 @@
 </p>
 
 <h3 align="center">Don't hesitate to ask questions, I will always be happy to help! </h3>
-
-------------
-<p align="center">
-   If you like what I do, maybe consider buying me a coffee/tea
-</p>
-
-<p align="center">
-  <a href="https://ko-fi.com/katyaru" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
-</p>
-
 ------------
 <p align="right">
    <a href=""><img src="https://komarev.com/ghpvc/?username=RuKatya&style=flat-square&label=Views&color=blueviolet"/></a>
